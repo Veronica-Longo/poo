@@ -1,0 +1,42 @@
+Listas 
+-------------------------------------------------
+list -> Es una interface (No se puede hacer new list())
+Se puede recorrer 
+add(E) se pone al final de todo 
+addAll pasar toda una colección 
+contains devuelve v o f 
+equals comparar dos Listas
+get 
+has code() indentificador unico que tiene un elemento 
+isempty 
+iterator 
+remove 
+size tamaño
+sort odernar lista 
+sublist 
+toarray la convierte en un arreglo 
+toarrayT 
+--------------------------------------------------
+Implementacion de listas en java
+ArraysT         LinkedList 
+el comportamiento es el mismo 
+
+se diferencia en la implementacion  arreglos trabaja con arreglos no se puede agrandar ni achicar
+pro acceso directo de los arrays no hay que recorrer  
+busqueda y acceso 
+modficar, insertar, agregar hay que cambiar todo 
+LinkedList trabaja con nodos enlazados 
+puede ser simple o doble en java es doble 
+cada nodo tiene un dato(objeto) y un puntero 
+recorrer una lista es más complicado 
+insertar, remover es mas sencillo con los nodos 
+------------------------------------------------------------
+objetivo de clase viernes/lunes/lunes (3 clases)
+colecciones 
+Listas 
+pila
+cola 
+conjunto (guardar elemento sin repetir)
+map o diccionarios 
+---------------------------------------------------------
+
